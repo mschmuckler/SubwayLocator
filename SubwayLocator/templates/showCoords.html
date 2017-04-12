@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+</head>
+<body>
+    {% if not withinDistance %}
+        <p>Oops! It looks like there are no subways within distance</p>
+        <p><a href="{{ url_for('enterCoords') }}">Go back</a></p>
+    {% else %}
+
+    <table>
+        <tr>
+            <th><u>STATION</u></th>
+            <th><u>DISTANCE</u></th>
+            <th><u>LINES</u></th>
+            <th><u>INFO</u></th>
+        </tr>
+        {% for row in withinDistance %}
+        <tr>
+            <th>{{row[3]}}</th>
+            <th>{{row[6]}}</th>
+            <th>{{row[4]}}</th>
+            <th>{{row[5]}}</th>
+            <th><a href="http://www.google.com/maps/dir//{{row[1]}},{{row[2]}}"><p>Directions</p></a></th>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</body>
+</html>

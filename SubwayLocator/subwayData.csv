@@ -1,0 +1,473 @@
+1,40.7300540002897,-73.9910699986196,Astor Pl,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+2,40.7188030010770,-74.0001929992732,Canal St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+3,40.7617279996141,-73.9838489998662,50th St,2-Jan,"1-all times, 2-nights"
+4,40.6808621368295,-73.9749991511680,Bergen St,2/3/2004,"4-nights, 3-all other times, 2-all times"
+5,40.6647144514356,-73.8948859115406,Pennsylvania Ave,4-Mar,"4-nights, 3-all other times"
+6,40.8846670006497,-73.9008700001852,238th St,1,"1-all times, exit only northbound"
+7,40.8005815581149,-73.9580667066136,Cathedral Pkwy (110th St),A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+8,40.6799189994160,-73.9408589987126,Kingston - Throop Aves,A-C,"A-nights, C-all other times"
+9,40.7497195293567,-73.8987883783301,65th St,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+10,40.7519600440107,-73.9290181846153,36th St,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+11,40.7183060561861,-73.9874094020297,Delancey St - Essex St,J-M-Z,"J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound"
+12,40.6780282144778,-73.8916577270244,Van Siclen Ave,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+13,40.6815200004568,-73.8796259991078,Norwood Ave,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+14,40.6951659982337,-73.8444350002968,104th-102nd Sts,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+15,40.6906481199697,-73.9817709444094,DeKalb Ave,B-D-N-Q-R,"B-weekdays and evenings, D-all other times, N-nights, R-all other times, Q-all times"
+16,40.5832684381028,-73.8275807503452,Beach 105th St,A-S,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
+17,40.5880915645732,-73.8136514041963,Beach 90th St,A-S,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
+18,40.8299874463841,-73.8917522534946,Freeman St,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+19,40.8221421311707,-73.8966173846164,Intervale Ave,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+20,40.8560929988186,-73.9007409999896,182nd-183rd Sts,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+21,40.8458999998341,-73.9101360005007,174th-175th Sts,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+22,40.8337689986279,-73.9184320008225,167th St,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+23,40.7546219988126,-73.8456249984179,Mets - Willets Point,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+24,40.7491449994883,-73.8695270010351,Junction Blvd,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+25,40.7595999991501,-73.8300300026250,Flushing - Main St,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+26,40.8468099988855,-73.8325690000374,Buhre Ave,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+27,40.8104760011726,-73.9261380001413,3rd Ave - 138th St,6-6 Express,"6-all times, 6 Express-weekdays AM southbound, PM northbound"
+28,40.8342549982546,-73.8512219996147,Castle Hill Ave,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+29,40.7130649994331,-74.0041310005885,Brooklyn Bridge - City Hall,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+30,40.8364880006081,-73.8470359987544,Zerega Ave,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+31,40.7518074298163,-73.9767132992584,Grand Central - 42nd St,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+32,40.7460809990914,-73.9820760014894,33rd St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+33,40.7856719999860,-73.9510700015425,96th St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+34,40.7736200007461,-73.9598739988604,77th St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+35,40.6828513008780,-73.9103835703337,Chauncey St,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+36,40.6773156673509,-73.9831099990967,Union St,D-N-R,"D,N-nights, R-all other times"
+37,40.7423700797216,-73.8820347465864,Elmhurst Ave,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+38,40.6788220008733,-73.9207859993330,Ralph Ave,A-C,"A-nights, C-all other times"
+39,40.8571924091606,-73.8674806785004,Pelham Pkwy,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+40,40.8778393851720,-73.8661341053870,Gun Hill Rd,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+41,40.8982865155752,-73.8543153107622,Nereid Ave (238 St),5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+42,40.6707651534489,-73.9580997367769,Franklin Ave,2-3-4-5,"2,4-all times, 3-all times exc nights, 5-weekdays"
+43,40.8239768412373,-73.8930663950790,Simpson St,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+44,40.8487686663389,-73.8683560917809,Bronx Park East,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+45,40.6566593137607,-73.9500793459099,Winthrop St,5-Feb,"2-all times, 5-weekdays"
+46,40.6655179630596,-73.8894049173010,Van Siclen Ave,4-Mar,"4-nights, 3-all other times"
+47,40.8183034437231,-73.9273847542618,149th St - Grand Concourse,4,4-all times
+48,40.8282303274216,-73.9256919950573,161st St - Yankee Stadium,4,4-all times
+49,40.7625260003045,-73.9679670004732,Lexington Ave - 59th St,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+50,40.8121179982720,-73.9040979987594,E 149th St,6,6-all times
+51,40.8295210015674,-73.8745159992948,Morrison Av - Soundview,6,6-all times
+52,40.8265250005590,-73.8862829985325,Whitlock Ave,6,6-all times
+53,40.8315090005233,-73.8676179992367,St Lawrence Ave,6,6-all times
+54,40.7456300011383,-73.9029840017300,Woodside - 61st St,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+55,40.6039950016875,-73.7554049992473,Far Rockaway - Mott Ave,A,A-all times
+56,40.7755193972925,-73.9763365752180,72nd St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+57,40.7916187976701,-73.9646024568716,96th St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+58,40.8407189999079,-73.9395609998542,168th St,A-C,"A-all times, C-all times exc nights"
+59,40.8669779999994,-73.8935090000331,Kingsbridge Rd,B-D,"B-rush hours, D-all times"
+60,40.7541840013125,-73.9845909990471,42nd St - Bryant Pk,B-D-F-M,"B,M-weekdays and evenings, D,F-all times"
+61,40.6616334551018,-73.9620313042660,Prospect Park,B-Q-S,"B-weekdays and evenings, Q,S to Franklin Av-Fulton St-all times"
+62,40.6314787609374,-73.9953488259574,55th St,D,D-all times
+63,40.7028985528731,-73.8170128713540,Jamaica - Van Wyck,E,E-all times
+64,40.7140348195710,-73.8303702709878,Kew Gardens - Union Tpke,E-F,"E,F-all times"
+65,40.7003824242350,-73.8080047196383,Sutphin Blvd - Archer Av,E-J-Z,"E,J-all times, Z-rush hours AM westbound, PM eastbound"
+66,40.7477681214143,-73.9460547026632,Court Sq - 23rd St,E-M,"E-all times, M-weekdays and evenings"
+67,40.7265054758130,-73.8528604843490,67th Ave,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+68,40.7368134181971,-73.8772208566918,Grand Ave - Newtown,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+69,40.6361186666629,-73.9781719996516,Ditmas Ave,F,F-all times
+70,40.6888890002645,-73.9599900013721,Classon Ave,G,G-all times
+71,40.7061265762741,-73.9503122560662,Broadway,G,G-all times
+72,40.7140720006471,-73.9502479999697,Lorimer St,L,L-all times
+73,40.6691450006139,-73.9019160004208,Sutter Ave,L,L-all times
+74,40.6888665424602,-73.9039586049186,Wilson Ave,L,L-all times
+75,40.6864152707043,-73.9166388842194,Halsey St,J,J-all times
+76,40.7038440000420,-73.9473549988420,Lorimer St,J-M,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
+77,40.6349709996471,-74.0115159977215,8th Ave,N,N-all times
+78,40.7564420005104,-73.9298619991180,36th Ave,N-W,"N-all times, W part time"
+79,40.7614319988005,-73.9258229991990,Broadway,N-W,"N-all times, W part time"
+80,40.7546119985154,-73.9867680015397,Times Sq - 42nd St,N-Q-R-W,"N,Q-all times, R-all times exc nights, W part time"
+81,40.7527686667421,-73.9791889998910,Grand Central - 42nd St,S,"S to Times Sq-all times exc nights, closed nights-use 7"
+82,40.6747716668526,-73.9576240007463,Park Pl,S,S Franklin Av-Fulton St to Prospect Park-all times
+83,40.6843310000123,-73.8321629984538,111th St,A-S,"S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times"
+84,40.7322544933678,-74.0003081475597,W 4th St - Washington Sq (Lower),B-D-F-M,"B,M-weekdays and evenings, D,F-all times"
+85,40.7571069998931,-73.9719200006998,51st St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+86,40.7886440007389,-73.9762179985932,86th St,2-Jan,"1-all times, 2-nights"
+87,40.8931432413837,-73.8573623952154,233rd St,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+88,40.7734400005203,-73.9822089999578,66th St - Lincoln Ctr,2-Jan,"1-all times, 2-nights"
+89,40.8209479985230,-73.8905490001734,Hunts Point Ave,6-6 Express,"6-all times, 6 Express-weekdays AM southbound, PM northbound"
+90,40.7228539977878,-74.0062770001748,Canal St,2-Jan,"1-all times, 2-nights"
+91,40.8438630012838,-73.8363219975594,Middletown Rd,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+92,40.7398640004746,-73.9865990020788,23rd St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+93,40.7470229988964,-73.9452640003967,Court Sq,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+94,40.7682470006368,-73.9819290023271,59th St - Columbus Circle,2-Jan,"1-all times, 2-nights"
+95,40.7422159998631,-73.9489160009391,Hunters Point Ave,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+96,40.7440809998975,-73.9956570016487,23rd St,2-Jan,"1-all times, 2-nights"
+97,40.7282510007302,-74.0053670018058,Houston St,2-Jan,"1-all times, 2-nights"
+98,40.6817110010911,-73.8376830006099,104th St,A-S,"S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times"
+99,40.6084021806968,-73.8158326878296,Broad Channel,A-S,"A,S to Rockaway Park-all times"
+100,40.5763116670809,-73.9685009997517,Ocean Pkwy,Q,Q-all times
+101,40.7426259996974,-73.9535809987524,Vernon Blvd - Jackson Ave,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+102,40.7681410004967,-73.9638700015804,68th St - Hunter College,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+103,40.7506356510148,-73.9401635351909,Queensboro Plz,7-7 Express-N-W,"7,N-all times, 7 Express-rush hours AM westbound, PM eastbound, W part time"
+104,40.6804289995884,-73.8438529979573,Rockaway Blvd,A-S,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
+105,40.7346730009961,-73.9899509988188,Union Sq - 14th St,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+106,40.6896270015844,-73.9535220006402,Bedford - Nostrand Aves,G,G-all times
+107,40.6600356881002,-73.9797358059287,15th St - Prospect Park,F-G,"F,G-all times"
+108,40.6662446900198,-73.9802511790094,7th Ave,F-G,"F,G-all times"
+109,40.6507816680341,-73.9757759991747,Ft Hamilton Pkwy,F-G,"F,G-all times"
+110,40.6442720001299,-73.9797211622908,Church Ave,F-G,"F,G-all times"
+111,40.6439045986041,-73.9643577962312,Beverly Rd,Q,Q-all times
+112,40.6504932464648,-73.9628824619211,Church Ave,B-Q,"B-weekdays and evenings, Q-all times"
+113,40.6351419373378,-73.9626948683726,Newkirk Ave,B-Q,"B-weekdays and evenings, Q-all times"
+114,40.6550730416371,-73.9614534398764,Parkside Ave,Q,Q-all times
+115,40.6752946951032,-73.9709563319228,Grand Army Plaza,2/3/2004,"4-nights, 3-all other times, 2-all times"
+116,40.6844201652676,-73.9775499353938,Atlantic Av - Barclay's Center,2-3-4-5,"2,4-all times, 3-all times exc nights, 5-weekdays"
+117,40.6783399998835,-73.9119459972661,Rockaway Ave,A-C,"A-nights, C-all other times"
+118,40.6871189995077,-73.9753749983314,Fulton St,G,G-all times
+119,40.6880940010605,-73.9667959986695,Clinton - Washington Aves,G,G-all times
+120,40.6771021798329,-73.9728527919102,7th Ave,B-Q,"B-weekdays and evenings, Q-all times"
+121,40.6844883234536,-73.9767834396316,Atlantic Av - Barclay's Center,B-Q,"B-weekdays and evenings, Q-all times"
+122,40.6836656672794,-73.9788099995676,Atlantic Av - Barclay's Center,D-N-Q-R,"D,N-all times, R-all times exc nights"
+123,40.6924039999910,-73.9901510009053,Borough Hall,5-Apr,"4-all times, 5-weekdays"
+124,40.6720969991728,-73.8359189996516,Aqueduct Racetrack,A,"A-to Manhattan only, racing days only"
+125,40.8543639996642,-73.8604950011725,Morris Park,5,5-all times
+126,40.8589849998201,-73.8553590004356,Pelham Pkwy,5,5-all times
+127,40.6804380000622,-73.9504260009968,Nostrand Ave,A-C,"A-all times, C-all times exc nights"
+128,40.6883105801902,-73.9804067987457,Nevins St,2-3-4-5,"2,4-all times, 3-all times exc nights, 5-weekdays"
+129,40.6720322354592,-73.9642220374842,Eastern Pkwy - Bklyn Museum,2/3/2004,"4-nights, 3-all other times, 2-all times"
+130,40.6451235189437,-73.9488479838170,Beverly Rd,5-Feb,"2-all times, 5-weekdays"
+131,40.6508606878022,-73.9494551403533,Church Ave,5-Feb,"2-all times, 5-weekdays"
+132,40.6399912427531,-73.9482999082240,Newkirk Ave,5-Feb,"2-all times, 5-weekdays"
+133,40.6328424070074,-73.9475412073440,Brooklyn College - Flatbush Ave,5-Feb,"2-all times, 5-weekdays"
+134,40.6627729934283,-73.9507289112493,Sterling St,5-Feb,"2-all times, 5-weekdays"
+135,40.6689783110780,-73.9329325608185,Crown Hts - Utica Ave,4-Mar,"3-all times exc nights, 4-all times"
+136,40.6694814486497,-73.9421597839296,Kingston Ave,4-Mar,"4-nights, 3-all other times"
+137,40.7244799978082,-73.9511830001652,Nassau Ave,G,G-all times
+138,40.7312669997146,-73.9544250014623,Greenpoint Ave,G,G-all times
+139,40.7083830000179,-73.9578320007572,Marcy Ave,J-M-Z,"J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound"
+140,40.7068899980540,-73.9534880003845,Hewes St,J-M,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
+141,40.8132239995890,-73.9298489993561,138th St - Grand Concourse,5-Apr,"4-all times, skips rush hours AM southbound, PM northbound, 5-all times exc nights"
+142,40.7600868323132,-73.9752485052734,5th Ave - 53rd St,E-M,"E-all times, M-weekdays and evenings"
+143,40.7574683078286,-73.9690723749020,Lexington Ave - 53rd St,E-M,"E-all times, M-weekdays and evenings"
+144,40.7454539997995,-73.9886980012873,28th St,N-Q-R-W,"N-all times, R-all times exc nights, part time"
+145,40.7496445600944,-73.9879368338264,Herald Sq - 34th St,N-Q-R-W,"N,Q-all times, R-all times exc nights"
+146,40.7309749758006,-73.9816808748912,1st Ave,L,L-all times
+147,40.7559830005700,-73.9862289995320,Times Sq - 42nd St,S,"S to Grand Central-all times exc nights, closed nights-use 7"
+148,40.7127740007342,-73.9514239994525,Metropolitan Ave,G,G-all times
+149,40.7115760006482,-73.9404969987464,Grand St,L,L-all times
+150,40.7145759983636,-73.9439439986903,Graham Ave,L,L-all times
+151,40.7171739985889,-73.9566649980652,Bedford Ave,L,L-all times
+152,40.7073910643845,-73.9397928471350,Montrose Ave,L,L-all times
+153,40.7463050335714,-73.9438155959783,Long Island City - Court Sq,G,G-all times
+154,40.7441286664954,-73.9495999997552,21st St,G,G-all times
+155,40.7527630614084,-73.9328513767959,39th Ave,N-W,"N-all times, W part time"
+156,40.8265509996219,-73.9503599987971,145th St,1,1-all times
+157,40.8340410001399,-73.9448899990104,157th St,1,1-all times
+158,40.7939190012147,-73.9723229991569,96th St,1/2/2003,"1,2,3-all times"
+159,40.7994460003348,-73.9683789996081,103rd St,1,1-all times
+160,40.7990749997732,-73.9518220017691,Central Park North (110th St),3-Feb,"2,3-all times"
+161,40.7960607399045,-73.9613700826761,103rd St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+162,40.7784530006861,-73.9819700015958,72nd St,1/2/2003,"1,2,3-all times"
+163,40.7813460841820,-73.9720979493720,81st St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+164,40.7180446534874,-73.8369236938715,75th Ave,E-F,"E-evenings, weekends, nights, F-all times"
+165,40.7858230467855,-73.9688284942967,86th St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+166,40.8039669996148,-73.9668470005456,Cathedral Pkwy (110th St),1,1-all times
+167,40.8077220012308,-73.9641099975775,116th St - Columbia University,1,1-all times
+168,40.8077539991828,-73.9454950001141,125th St,3-Feb,"2,3-all times"
+169,40.8142290003391,-73.9407700010670,135th St,3-Feb,"2,3-all times"
+170,40.8020979991330,-73.9496250009690,116th St,3-Feb,"2,3-all times"
+171,40.8504099995102,-73.9052270012235,Tremont Ave,B-D,"B-rush hours, D-all times"
+172,40.8220079996847,-73.9536760008787,137th St - City College,1,1-all times
+173,40.8204209996927,-73.9362449987329,145th St,3,"3-all times, exit only northbound"
+174,40.8484800012369,-73.9117939988447,176th St,4,4-all times
+175,40.8534530015569,-73.9076840015997,Burnside Ave,4,4-all times
+176,40.8393059996415,-73.9133999984698,170th St,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+177,40.8405559991485,-73.9401329990725,168th St,1,1-all times
+178,40.8495049997406,-73.9335959996056,181st St,1,1-all times
+179,40.8552250017583,-73.9294119974203,191st St,1,1-all times
+180,40.8473910007240,-73.9397039976159,175th St,A,A-all times
+181,40.5929429990861,-73.7760129999950,Beach 44th St,A,A-all times
+182,40.5923740012123,-73.7885219980118,Beach 60th St,A,A-all times
+183,40.5853856913327,-73.8205205895952,Beach 98th St,A-S,"A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
+184,40.5809558655735,-73.8355900870123,Rockaway Park - Beach 116 St,A-S,"A-rush hours AM northbound, PM southbound, S to Broad Channel-all times"
+185,40.5953980016687,-73.7681749993968,Beach 36th St,A,A-all times
+186,40.6000660010588,-73.7613529976207,Beach 25th St,A,A-all times
+187,40.7075719996156,-73.8032890002188,Parsons Blvd,F,F-all times
+188,40.7105175027840,-73.7934741992772,169th St,F,F-all times
+189,40.7498650005555,-73.8626999983041,103rd St - Corona Plaza,7,7-all times
+190,40.7517299994171,-73.8553339983488,111th St,7,7-all times
+191,40.7297639724224,-73.8616182009720,63rd Dr - Rego Park,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+192,40.6770440005447,-73.8650499987770,Grant Ave,A-S,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
+193,40.7839339995903,-73.9799170005613,79th St,2-Jan,"1-all times, 2-nights"
+194,40.6753446664080,-73.9030969995401,Atlantic Ave,L,L-all times
+195,40.7334220010422,-74.0029059985523,Christopher St - Sheridan Sq,2-Jan,"1-all times, 2-nights"
+196,40.6859509987836,-73.8257979990661,Ozone Park - Lefferts Blvd,A-S,"S to Euclid Av-nights, A-all other times"
+197,40.7554770019825,-73.9876909982515,Times Sq - 42nd St,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+198,40.5760338181036,-73.9759578741382,W 8th St - NY Aquarium,F-Q,"F,Q-all times"
+199,40.7472149991821,-73.9933650013432,28th St,2-Jan,"1-all times, 2-nights"
+200,40.7430699992590,-73.9842640011040,28th St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+201,40.8524619995166,-73.8281210005928,Pelham Bay Park,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+202,40.8398920010139,-73.8429519992501,Westchester Sq - E Tremont Ave,6-6 Express,"6 Express-weekdays AM southbound, PM northbound, 6-all other times"
+203,40.7410399998021,-73.9978710006040,18th St,2-Jan,"1-all times, 2-nights"
+204,40.7514310002868,-73.9760410011150,Grand Central - 42nd St,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+205,40.5909270007813,-73.7969239998421,Beach 67th St,A,A-all times
+206,40.7323379977432,-74.0004950022543,W 4th St - Washington Sq (Upper),A-C-E,"A,E-all times, C-all times exc nights"
+207,40.6924269996610,-73.8600870000687,85th St - Forest Pky,J,J-all times
+208,40.6937039988010,-73.8520519974079,Woodhaven Blvd,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+209,40.6971148106964,-73.8367933845469,111th St,J,J-all times
+210,40.7004819985153,-73.8283490001795,121st St,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+211,40.6955180011487,-73.9039340011863,Halsey St,L,L-all times
+212,40.6994710624271,-73.9109757182647,Myrtle - Wyckoff Aves,L,L-all times
+213,40.6663149325969,-73.8841107080032,New Lots Ave,4-Mar,"4-nights, 3-all other times"
+214,40.6727099990610,-73.8903580002471,Van Siclen Ave,A-C,"A-nights, C-all other times"
+215,40.6797779989611,-73.8851940021643,Cleveland St,J,J-all times
+216,40.6640572709464,-73.9005623722605,Livonia Ave,L,L-all times
+217,40.6635890018172,-73.9024486418356,Junius St,4-Mar,"4-nights, 3-all other times"
+218,40.6626174881522,-73.9089583358444,Rockaway Ave,4-Mar,"4-nights, 3-all other times"
+219,40.6466536673952,-73.9018500001728,Canarsie - Rockaway Pkwy,L,L-all times
+220,40.6504687854469,-73.8995476938872,E 105th St,L,L-all times
+221,40.6615297898075,-73.9163302500794,Saratoga Ave,4-Mar,"4-nights, 3-all other times"
+222,40.6647667887749,-73.9225211853600,Sutter Ave - Rutland Road,4-Mar,"4-nights, 3-all other times"
+223,40.6589147736852,-73.8992779605714,New Lots Ave,L,L-all times
+224,40.6793660014736,-73.9042899974641,Broadway Junction,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+225,40.6769980000037,-73.8985260015965,Alabama Ave,J,J-all times
+226,40.6741300014559,-73.8807499974726,Shepherd Ave,A-C,"A-nights, C-all other times"
+227,40.6831526570773,-73.8739292521577,Crescent St,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+228,40.6896160008387,-73.8733219988299,Cypress Hills,J,J-all times
+229,40.6912900012467,-73.8672879994496,75th St - Eldert Ln,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+230,40.7463249994102,-73.8964029993185,69th St,7,7-all times
+231,40.7468675738291,-73.8912051289911,74th St - Broadway,7,7-all times
+232,40.7330973738097,-73.8694320861234,Woodhaven Blvd - Queens Mall,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+233,40.6994540009083,-73.9121789993960,Myrtle - Wyckoff Aves,M,M-all times
+234,40.7029189989490,-73.9075819988542,Seneca Ave,M,M-all times
+235,40.7036929996164,-73.9182320021972,DeKalb Ave,L,L-all times
+236,40.7441490010215,-73.9125489989125,52nd St,7,7-all times
+237,40.7563169526080,-73.9135217499553,46th St,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+238,40.7528248292360,-73.9060650805235,Northern Blvd,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+239,40.7431320006038,-73.9184350010397,46th St,7,7-all times
+240,40.7476589995591,-73.8836970007188,82nd St - Jackson Hts,7,7-all times
+241,40.7484080006091,-73.8766129998698,90th St - Elmhurst Av,7,7-all times
+242,40.6604760000495,-73.8303010007103,Howard Beach - JFK Airport,A,A-all times
+243,40.6682340016998,-73.8340579994872,Aqueduct - North Conduit Av,A,A-all times
+244,40.7091618153694,-73.8206926363744,Briarwood - Van Wyck Blvd,E-F,"E-evenings, weekends, nights, F-all times"
+245,40.7215943095358,-73.8445167201266,Forest Hills - 71st Av,E-F-M-R,"E,F-all times, M-weekdays and evenings, R-all times exc nights"
+246,40.7054179990676,-73.8108329989723,Sutphin Blvd,F,F-all times
+247,40.7020673762118,-73.8010963229892,Jamaica Ctr - Parsons / Archer,E-J-Z,"E,J-all times, Z-rush hours AM westbound, PM eastbound"
+248,40.8880282586378,-73.8602146177273,225th St,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+249,40.8285840010892,-73.8791589987477,Elder Ave,6,6-all times
+250,40.8161039999724,-73.8964349989741,Longwood Ave,6,6-all times
+251,40.7700369994908,-73.9180950010923,Astoria Blvd,N-W,"N-all times, W part time"
+252,40.7750356665236,-73.9120340001031,Astoria - Ditmars Blvd,N-W,"N-all times, W part time"
+253,40.8164374668639,-73.9077019387083,Jackson Ave,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+254,40.8194872648384,-73.9017777873091,Prospect Ave,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+255,40.8053680007636,-73.9140419999475,Cypress Ave,6,6-all times
+256,40.8371955501706,-73.8876935981288,174th St,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+257,40.8654833779392,-73.8672342285162,Allerton Ave,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+258,40.8087190009014,-73.9076569993648,E 143rd St - St Mary's St,6,6-all times
+259,40.8677600008857,-73.8971740010174,Kingsbridge Rd,4,4-all times
+260,40.8734119998012,-73.8900640006947,Bedford Park Blvd - Lehman College,4,4-all times
+261,40.8238800008045,-73.9364700000555,Harlem - 148 St,3,3-all times
+262,40.8444340009267,-73.9146849986034,Mt Eden Ave,4,4-all times
+263,40.8612959986834,-73.8977490010240,Fordham Rd,B-D,"B-rush hours, D-all times"
+264,40.8400749999300,-73.9177909974592,170th St,4,4-all times
+265,40.8732439986164,-73.8871379988957,Bedford Park Blvd,B-D,"B-rush hours, D-all times"
+266,40.8745609994178,-73.9098309992355,Marble Hill - 225th St,1,1-all times
+267,40.8788559981793,-73.9048340010787,231st St,1,1-all times
+268,40.8694439994604,-73.9152789995435,215th St,1,1-all times
+269,40.8646140005258,-73.9188190013231,207th St,1,1-all times
+270,40.8680719999973,-73.9198990010046,Inwood - 207th St,A,A-all times
+271,40.8892480001147,-73.8985830004964,Van Cortlandt Park - 242nd St,1,1-all times
+272,40.8402076324179,-73.8799612787718,West Farms Sq - E Tremont Av,5-Feb,"2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
+273,40.8838879746252,-73.8625097078866,219th St,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+274,40.8797499994722,-73.8846549998873,Mosholu Pkwy,4,4-all times
+275,40.8748110001118,-73.8788549991869,Norwood - 205th St,D,D-all times
+276,40.8712588025477,-73.8670536174760,Burke Ave,5-Feb,"2-all times, 5-rush hours AM southbound, PM northbound"
+277,40.8786630003731,-73.8385909980215,Baychester Ave,5,5-all times
+278,40.8882999990100,-73.8308340021742,Eastchester - Dyre Ave,5,5-all times
+279,40.7126456667440,-73.7838170017645,Jamaica - 179th St,F,F-all times
+280,40.9031250005412,-73.8506199987954,Wakefield - 241st St,2,2-all times
+281,40.6703426665843,-73.9592449994569,Botanic Garden,S,S Franklin Av-Fulton St to Prospect Park-all times
+282,40.6828606255118,-73.9052617630510,Bushwick - Aberdeen,L,L-all times
+283,40.6784562484286,-73.9031175792068,Broadway Junction,L,L-all times
+284,40.8695259996267,-73.8463840015176,Gun Hill Rd,5,5-all times
+285,440.8418630412180,-73.8733460951088,E 180th St,5-Feb,"2,5-all times"
+286,40.8605310013879,-73.9255360000647,Dyckman St,1,1-all times
+287,40.8155809999789,-73.9583720009704,125th St,1,1-all times
+288,40.6805956659826,-73.9558270011042,Franklin Ave - Fulton St,S,S to Prospect Park-all times
+289,40.8183301440974,-73.9267224743861,149th St - Grand Concourse,5-Feb,"2-all times, 5-all times exc nights"
+290,40.8160292525100,-73.9177915276098,3rd Ave - 149th St,5-Feb,"2-all times, 5-all times exc nights"
+291,40.8355369993367,-73.9213999978442,167th St,4,4-all times
+292,40.8075659998769,-73.9192399990943,Brook Ave,6,6-all times
+293,40.7445869998399,-73.9309969995383,33rd St,7,7-all times
+294,40.7437810014913,-73.9240159984882,40th St,7,7-all times
+295,40.8247663608719,-73.9440879282311,145th St,A-B-C-D,"A,D-all times, B-weekdays and evenings, C-all times exc nights"
+296,240.8301349999810,-73.9382089981162,155th St,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+297,40.8279049988458,-73.9256509977547,161st St - Yankee Stadium,B-D,"B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
+298,40.6793639995054,-73.9307289991402,Utica Ave,A-C,"A-all times, C-all times exc nights"
+299,40.7569873591257,-73.9205264716827,Steinway St,E-M-R,"E-nights, R-all other times, M-weekdays and evenings"
+300,40.6931720012920,-73.9285089992741,Kosciuszko St,J,J-all times
+301,40.6895839990139,-73.9221560015075,Gates Ave,J-Z,"Z-rush hours AM westbound, PM eastbound, J-all other times"
+302,40.6978730001183,-73.9272429990283,Central Ave,M,M-all times
+303,40.6986600012380,-73.9197200018862,Knickerbocker Ave,M,M-all times
+304,40.7667786667329,-73.9214790001739,30th Ave,N-W,"N-all times, W part time"
+305,40.7066066659887,-73.9229130000312,Jefferson St,L,L-all times
+306,40.7061516668072,-73.9331470002420,Morgan Ave,L,L-all times
+307,40.7489177198632,-73.9371382396569,Queens Plz,E-M-R,"E-all times, M-weekdays and evenings, R-all times exc nights"
+308,40.6297546663858,-73.9769709996579,18th Ave,F,F-all times
+309,40.6297416668869,-74.0255099996266,77th St,R,R-all times
+310,40.6349666668237,-74.0233769995072,Bay Ridge Ave,R,R-all times
+311,40.6362608909613,-73.9946587805514,50th St,D,D-all times
+312,40.6313856672244,-74.0053510004627,Ft Hamilton Pkwy,N,N-all times
+313,40.5977036669585,-73.9868290001147,25th Ave,D,D-all times
+314,40.6019504615723,-73.9936762000529,Bay Pky,D,D-all times
+315,40.6171089998660,-73.9845219984611,20th Ave,N,N-all times
+316,40.6206869976800,-73.9904539986599,18th Ave,N,N-all times
+317,40.6166216672595,-74.0308760008576,Bay Ridge - 95th St,R,R-all times
+318,40.6226866671502,-74.0283979999864,86th St,R,R-all times
+319,40.6131589256951,-74.0005828743150,79th St,D,D-all times
+320,40.6192587097727,-73.9988409485068,71st St,D,D-all times
+321,40.6046769981693,-73.9981743215756,20th Ave,D,D-all times
+322,40.6077357317174,-74.0015925923940,18th Ave,D,D-all times
+323,40.6262244629221,-73.9968572499486,62nd St,D,D-all times
+324,40.6248416672588,-73.9963530002596,New Utrecht Ave,N,N-all times
+325,40.5959248255174,-73.9733764197488,Ave U,F,F-all times
+326,40.6032584051282,-73.9723553085244,Kings Hwy,F,F-all times
+327,40.5777101966424,-73.9613537859879,Brighton Beach,B-Q,"B-weekdays and evenings, Q-all times"
+328,40.5865475470753,-73.9540579125790,Sheepshead Bay,B-Q,"B-weekdays and evenings, Q-all times"
+329,40.5993089509547,-73.9558112231630,Ave U,Q,Q-all times
+330,40.6086386453960,-73.9576087353808,Kings Hwy,B-Q,"B-weekdays and evenings, Q-all times"
+331,40.5972359999204,-73.9790840009942,Ave U,N,N-all times
+332,40.6040589998049,-73.9803730022934,Kings Hwy,N,N-all times
+333,40.5807387584914,-73.9745927281880,Neptune Ave,F,F-all times
+334,40.5894496666252,-73.9742659996890,Ave X,F,F-all times
+335,40.5888406665193,-73.9837650004594,Bay 50th St,D,D-all times
+336,40.5924650008885,-73.9781889993627,Gravesend - 86th St,N,N-all times
+337,40.6088428089499,-73.9730028152875,Ave P,F,F-all times
+338,40.6143567119088,-73.9740485087314,Ave N,F,F-all times
+339,40.6207316231678,-73.9752569782215,Bay Pky,F,F-all times
+340,40.6173977444437,-73.9592431052215,Ave M,Q,Q-all times
+341,40.6114557898900,-73.9817800106929,Bay Pky,N,N-all times
+342,40.6250174401914,-73.9760693317092,Ave I,F,F-all times
+343,40.6250228199151,-73.9606931624692,Ave J,Q,Q-all times
+344,40.6292083775896,-73.9615179394249,Ave H,Q,Q-all times
+345,40.5953216911169,-73.9550782749376,Neck Rd,Q,Q-all times
+346,40.7537392708755,-73.9419376145744,21st St - Queensbridge,F,F-all times
+347,40.7624559992599,-73.9859840002640,50th St,A-C-E,"A-nights, C-all other times, E-all times"
+348,40.7629701524562,-73.9816978234447,7th Ave,B-D-E,"D,E-all times, B-weekdays and evenings"
+349,40.7586410015981,-73.9813310022770,47th-50th Sts - Rockefeller Ctr,B-D-F-M,"B,M-weekdays and evenings, D,F-all times"
+350,40.7640850008171,-73.9773680008517,57th St,F,F-all times
+351,40.7646180944237,-73.9660896441324,Lexington Ave - 63rd St,F-Q,"F-all times, Q all times"
+352,40.7591719996710,-73.9532349997886,Roosevelt Island - Main St,F,F-all times
+353,40.7682495317760,-73.9816487230139,59th St - Columbus Circle,A-B-C-D,"A,D-all times, B-weekdays and evenings, C-all times exc nights"
+354,40.7598019738706,-73.9842095659109,49th St,N-Q-R-W,"N-all times, Q-all times exc weekends, R-all times exc nights, W part time"
+355,40.7645655250182,-73.9807297337212,57th St,N-Q-R-W,"N,Q-all times, R-all times exc nights, W part time"
+356,40.7648109997552,-73.9733470004704,5th Ave - 59th St,N-R-W,"N-all times, R-all times exc nights, W part time"
+357,40.7627088553945,-73.9673750171143,Lexington Ave - 59th St,N-R-W,"N-all times, R-all times exc nights, W part time"
+358,40.7503730000394,-73.9910569991398,34th St - Penn Station,1/2/2003,"1,2,3-all times"
+359,40.7552899999568,-73.9874950005188,Times Sq - 42nd St,1/2/2003,"1,2,3-all times"
+360,40.7101621653018,-74.0076230932399,Fulton St,A-C,"A-all times, C-all times exc nights"
+361,40.7141110007740,-74.0085847357013,Chambers St,A-C,"A-all times, C-all times exc nights"
+362,40.7573079985515,-73.9897350008585,42nd St - Port Authority Bus Term,A-C-E,"A,E-all times, C-all times exc nights"
+363,40.6946189990376,-73.9490669989015,Myrtle-Willoughby Aves,G,G-all times
+364,40.7003766662215,-73.9502340010257,Flushing Ave,G,G-all times
+365,40.7429543178260,-73.9927650047138,23rd St,F-M,"F-all times, M-weekdays and evenings"
+366,40.7497893999001,-73.9877718907291,Herald Sq - 34th St,B-D-F-M,"B,M-weekdays and evenings, D,F-all times"
+367,40.6884084758064,-73.9850362403413,Hoyt - Schermerhorn Sts,A-C-G,"A,G-all times, C-all times exc nights"
+368,40.6924706368470,-73.9872181526731,Jay St - MetroTech,A-C-F,"A,F-all times, C-all times exc nights"
+369,40.7138550010204,-73.9901770012219,East Broadway,F,F-all times
+370,40.7186807421945,-73.9880780680771,Delancey St - Essex St,F,F-all times
+371,40.7234016657491,-73.9899380000343,Lower East Side - 2nd Ave,F,F-all times
+372,40.7004044029811,-73.9413773483836,Flushing Ave,J-M,"J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
+373,40.6971950005145,-73.9356230012996,Myrtle Ave,J-M-Z,"J,M-all times, Z-rush hours AM westbound, PM eastbound"
+374,40.6702716672849,-73.9897789993889,4th Av - 9th St,F-G,"F,G-all times"
+375,40.6736410609041,-73.9958917279093,Smith - 9th Sts,F-G,"F,G-all times"
+376,40.6861105472597,-73.9907564957356,Bergen St,F-G,"F,G-all times"
+377,40.6922553964532,-73.9860566785461,Jay St - MetroTech,N-R,"N-nights, R-all other times"
+378,40.6941964807769,-73.9918183090112,Court St,N-R,"N-nights, R-all other times"
+379,40.7358722669981,-73.9905388618164,Union Sq - 14th St,N-Q-R-W,"N,Q-all times, R-all times exc nights"
+380,40.7413026672900,-73.9893440010290,23rd St,N-Q-R-W,"N-all times, Q-nights, R-all times exc nights"
+381,40.6654136671297,-73.9928720006742,Prospect Ave,D-N-R,"D,N-nights, R-all other times"
+382,40.6708466668427,-73.9883019997451,4th Av - 9th St,D-N-R,"D,N-nights, R-all other times"
+383,40.7326909997166,-73.9857500011209,3rd Ave,L,L-all times
+384,40.7347633121792,-73.9906697690181,Union Sq - 14th St,L,L-all times
+385,40.6745419998708,-73.8965480010392,Liberty Ave,A-C,"A-nights, C-all other times"
+386,40.6783336660802,-73.9053160005534,Broadway Junction,A-C,"A-all times, C-all times exc nights"
+387,40.6413616662838,-74.0178809995398,59th St,N-R,"N,R-all times"
+388,40.6489386666128,-74.0100060007493,45th St,N-R,"N-nights, R-all times, skips nights northbound"
+389,40.6551436663388,-74.0035489995180,36th St,D-N-R,"D,N,R-all times"
+390,40.6464840772663,-73.9944487445120,9th Ave,D,D-all times
+391,40.6450686673598,-74.0140339998631,53rd St,N-R,"N-nights, R-all times, skips nights northbound"
+392,40.6409127114446,-73.9942022375285,Ft Hamilton Pkwy,D,D-all times
+393,40.6603966669232,-73.9980909997429,25th St,D-N-R,"D,N-nights, R-all other times"
+394,40.6802733517017,-73.9949469799884,Carroll St,F-G,"F,G-all times"
+395,40.7262270012931,-74.0037389984376,Spring St,A-C-E,"A-nights, C-all other times, E-all times"
+396,40.8516949997446,-73.9379690020501,181st St,A,A-all times
+397,40.8590219989248,-73.9341799996433,190th St,A,A-all times
+398,40.8050581334421,-73.9547977805731,116th St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+399,40.8110716729945,-73.9522479973477,125th St,A-B-C-D,"A,D-all times, B-weekdays and evenings, C-all times exc nights"
+400,40.7243286659757,-73.9977020004598,Prince St,N-Q-R-W,"N-all times, Q-nights, R-all times exc nights"
+401,40.7304649985399,-73.9925079984914,8th St - NYU,N-Q-R-W,"N-all times, Q-nights, R-all times exc nights"
+402,40.7094159992586,-74.0065709997020,Fulton St,3-Feb,"2-all times, 3-all times exc nights"
+403,40.7130509990776,-74.0088109999735,Park Pl,3-Feb,"2-all times, 3-all times exc nights"
+404,40.7154780001132,-74.0092660017011,Chambers St,1/2/2003,"1,2-all times, 3-all times exc nights"
+405,40.6905441853547,-73.9850637957564,Hoyt St,3-Feb,"2-all times, 3-all times exc nights"
+406,40.6932189996110,-73.9899979996068,Borough Hall,3-Feb,"2-all times, 3-all times exc nights"
+407,40.8584070004084,-73.9038790015153,183rd St,4,4-all times
+408,40.8628029998893,-73.9010339992169,Fordham Rd,4,4-all times
+409,40.7125639268081,-74.0097446151770,World Trade Center,E,E-all times
+410,40.7208240000711,-74.0052290023424,Canal St - Holland Tunnel,A-C-E,"A,E-all times, C-all times exc nights"
+411,40.8305179992925,-73.9415140008220,155th St,A-C,"A-nights, C-all other times"
+412,40.8360129992309,-73.9398920018834,163rd St - Amsterdam Av,A-C,"A-nights, C-all other times"
+413,40.7100226665842,-74.0079380011038,Fulton St,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+414,40.7132337896267,-74.0034067303133,Chambers St,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+415,40.7181738769739,-73.9998263854593,Canal St,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+416,40.7132723311169,-74.0069858178033,City Hall,R-W,"N-nights, R-all other times"
+417,40.7194650010589,-74.0018260000577,Canal St,R-W,"N-nights, R-all other times"
+418,40.7017305075744,-74.0131689591925,South Ferry,1,1-all times
+419,40.7049139992807,-74.0140079980343,Bowling Green,5-Apr,"4-all times, 5-all times exc nights"
+420,40.7075570008660,-74.0118619986011,Wall St,5-Apr,"4-all times, 5-weekdays"
+421,40.7031423735991,-74.0130072374272,Whitehall St,R-W,"N-nights, R-all other times"
+422,40.7077447562944,-74.0129745625379,Rector St,R-W,"N-nights, R-all other times"
+423,40.7062259982304,-73.8958980017196,Fresh Pond Rd,M,M-all times
+424,40.7114313050582,-73.8895772297809,Middle Village - Metropolitan Ave,M,M-all times
+425,40.7075129995217,-74.0137830011974,Rector St,1,1-all times
+426,40.7118350008202,-74.0121880011229,Cortlandt St,1,Temporarily closed
+427,40.7103679988221,-74.0095089985646,Fulton St,5-Apr,"4-all times, 5-weekdays"
+428,40.7064760011060,-74.0110559999175,Broad St,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+429,40.7105129841524,-74.0111319647326,Cortlandt St,R-W,"N-nights, R-all other times"
+430,40.7068209997533,-74.0090999984425,Wall St,3-Feb,"2-all times, 3-all times exc nights"
+431,40.8654909989689,-73.9272709996072,Dyckman St,A,A-all times
+432,40.7182669995499,-73.9937529991358,Grand St,B-D,"B-weekdays and evenings, D-all times"
+433,40.7252969987380,-73.9962039987605,Broadway - Lafayette St,B-D-F-M,"B,M-weekdays and evenings, D,F-all times"
+434,40.7202468831472,-73.9938069065423,Bowery,J-Z,"J-all times, Z-rush hours AM westbound, PM eastbound"
+435,40.7188142635871,-74.0010547130603,Canal St,N-Q,"N-all times, Q-weekdays and evenings"
+436,40.7459059993999,-73.9980410011720,23rd St,A-C-E,"A-nights, C-all other times, E-all times"
+437,40.7522870007758,-73.9933909997057,34th St - Penn Station,A-C-E,"A,E-all times, C-all times exc nights"
+438,40.7465396911588,-73.8912986651969,Jackson Hts - Roosevelt Av,E-F-M-R,"E,F-all times, M-weekdays and evenings, R-all times exc nights"
+439,40.7378259997281,-74.0002010006349,14th St,1/2/2003,"1,2-all times, 3-all times exc nights"
+440,40.8179055592126,-73.9475348087921,135th St,A-B-C,"A-nights, B-weekdays and evenings, C-all times exc nights"
+441,40.7382279996951,-73.9962089992135,14th St,F-M,"F-all times, M-weekdays and evenings"
+442,40.7377414698105,-73.9977507887478,6th Ave,L,L-all times
+443,40.7397766663819,-74.0025780010476,8th Ave,L,L-all times
+444,40.7408930001932,-74.0016899993702,14th St,A-C-E,"A,E-all times, C-all times exc nights"
+445,40.6699381509305,-73.9504262489579,Nostrand Ave,4-Mar,"4-nights, 3-all other times"
+446,40.6974659999646,-73.9930859982196,Clark St,3-Feb,"2-all times, 3-all times exc nights"
+447,40.6813796665874,-73.9568480001461,Franklin Ave,A-C,"A-nights, C-all other times"
+448,40.6832629991264,-73.9658379985727,Clinton - Washington Aves,A-C,"A-nights, C-all other times"
+449,40.7044120008781,-73.9030750000595,Forest Ave,M,M-all times
+450,40.7950200001131,-73.9442499968716,110th St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+451,40.7794919982095,-73.9555889998513,86th St,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+452,40.6997426676915,-73.9868849999367,York St,F,F-all times
+453,40.6993369997788,-73.9905310006545,High St,A-C,"A-all times, C-all times exc nights"
+454,40.6861130002056,-73.9739459984940,Lafayette Ave,A-C,"A-nights, C-all other times"
+455,40.6678836035368,-73.9505892002220,President St,5-Feb,"2-all times, 5 weekdays"
+456,40.8860370002533,-73.8787509999093,Woodlawn,4,4-all times
+457,40.7259146668265,-73.9946590000633,Bleecker St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays PM"
+458,40.7906000000845,-73.9474780015221,103rd St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+459,40.6753769982393,-73.8721060009967,Euclid Ave,A-C-S,"S to Ozone Park-Lefferts Blvd-nights, C-all other times, A-all times"
+460,40.6798430013550,-73.8514700002608,88th St,A-S,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
+461,40.6409401651401,-73.9637900550549,Cortelyou Rd,Q,Q-all times
+462,40.7986290002001,-73.9416169983714,116th St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+463,40.8332259992785,-73.8608160010839,Parkchester,6-6 Express,"6-all times, 6 Express-weekdays AM southbound, PM northbound"
+464,40.7193180013021,-74.0068860027710,Franklin St,2-Jan,"1-all times, 2-nights"
+465,40.6793710011543,-73.8589920020633,80th St,A-S,"A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
+466,40.7538210006482,-73.9819629985670,5th Ave - Bryant Pk,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+467,40.7223009999936,-73.9971410000667,Spring St,4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+468,40.8041380005872,-73.9375940005572,125th St,4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+469,40.5772810000675,-73.9812359981396,Coney Island - Stillwell Av,D-F-N-Q,"D,F,N,Q-all times"
+470,40.7554463596159,-74.0021970944220,34th St - Hudson Yards,7-7 Express,"7-all times, 7 Express-rush hours AM westbound, PM eastbound"
+641,40.7688025101489,-73.9583617868224,72nd St,Q,Q-all times
+642,40.7778610433316,-73.9517709096491,86th St,Q,Q-all times
+643,40.7842366501776,-73.9470660219183,96th St,Q,Q-all times

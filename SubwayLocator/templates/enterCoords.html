@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <form action = {{ url_for('showCoords') }} method = "POST">
+         <p>Find subway stations near you:</p>
+         <p hidden id="demo"></p>
+         <p><input hidden type = "text" id = "lati" name = "lati" /></p>
+         <p><input hidden type = "text" id = "longi" name = "longi" /></p>
+         <p><input type = "submit" value = "Find Subways!" /></p>
+    </form>
+
+    <br>
+
+    <form action = {{ url_for('showCoords') }} method = "POST">
+         <p>Or test as if you're standing at <b>Grand Central - 42nd St</b>:</p>
+         <p><input hidden type = "text" value = 40.7518074298163 name = "lati" /></p>
+         <p><input hidden type = "text" value = -73.9767132992584 name = "longi" /></p>
+         <p><input type = "submit" value = "Testing!" /></p>
+    </form>
+
+<script>
+var x = document.getElementById("demo");
+var lat = "lat"
+var long = "long"
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    x.innerHTML = "Latitude: " + position.coords.latitude +
+    "<br>Longitude: " + position.coords.longitude;
+    lat = position.coords.latitude;
+    long = position.coords.longitude;
+    document.getElementById('lati').value = lat;
+    document.getElementById('longi').value = long;
+}
+window.onload = getLocation;
+
+</script>
+
+</body>
+</html>
